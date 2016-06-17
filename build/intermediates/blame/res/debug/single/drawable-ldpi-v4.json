@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/student/Desktop/SDK_Android/myscioapplication/build/intermediates/res/merged/debug/drawable-ldpi-v4/scio_logo.png",
+        "source": "/Users/student/Desktop/SDK_Android/myscioapplication/build/intermediates/exploded-aar/SCiOSDK_Android/res/drawable-ldpi-v4/scio_logo.png"
+    },
+    {
+        "merged": "/Users/student/Desktop/SDK_Android/myscioapplication/build/intermediates/res/merged/debug/drawable-ldpi-v4/scio.png",
+        "source": "/Users/student/Desktop/SDK_Android/myscioapplication/build/intermediates/exploded-aar/SCiOSDK_Android/res/drawable-ldpi-v4/scio.png"
+    },
+    {
+        "merged": "/Users/student/Desktop/SDK_Android/myscioapplication/build/intermediates/res/merged/debug/drawable-ldpi-v4/_alert_dots.png",
+        "source": "/Users/student/Desktop/SDK_Android/myscioapplication/build/intermediates/exploded-aar/SCiOSDK_Android/res/drawable-ldpi-v4/_alert_dots.png"
+    },
+    {
+        "merged": "/Users/student/Desktop/SDK_Android/myscioapplication/build/intermediates/res/merged/debug/drawable-ldpi-v4/login_error_icon.png",
+        "source": "/Users/student/Desktop/SDK_Android/myscioapplication/build/intermediates/exploded-aar/SCiOSDK_Android/res/drawable-ldpi-v4/login_error_icon.png"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/student/Desktop/SDK_Android/myscioapplication/build/intermediates/res/merged/debug/menu/menu_discover.xml",
+        "source": "/Users/student/Desktop/SDK_Android/myscioapplication/src/main/res/menu/menu_discover.xml"
+    },
+    {
+        "merged": "/Users/student/Desktop/SDK_Android/myscioapplication/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/Users/student/Desktop/SDK_Android/myscioapplication/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/Users/student/Desktop/SDK_Android/myscioapplication/build/intermediates/res/merged/debug/menu/menu_collection.xml",
+        "source": "/Users/student/Desktop/SDK_Android/myscioapplication/src/main/res/menu/menu_collection.xml"
+    },
+    {
+        "merged": "/Users/student/Desktop/SDK_Android/myscioapplication/build/intermediates/res/merged/debug/menu/model_selector_menu.xml",
+        "source": "/Users/student/Desktop/SDK_Android/myscioapplication/src/main/res/menu/model_selector_menu.xml"
+    },
+    {
+        "merged": "/Users/student/Desktop/SDK_Android/myscioapplication/build/intermediates/res/merged/debug/menu/menu_scan.xml",
+        "source": "/Users/student/Desktop/SDK_Android/myscioapplication/src/main/res/menu/menu_scan.xml"
+    }
+]
